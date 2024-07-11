@@ -1,0 +1,1 @@
+A backend-only app built using Express.js, Node.js, and MongoDB Atlas in order to execute Get, Post, Put, and Delete HTTP requests food items into the database. Used Insomnia in order to test API endpoints' functionality as well as allowed multiple input types such as JSON and basic text forms to update the database.
